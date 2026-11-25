@@ -219,7 +219,7 @@ The client dashboard will run at `http://localhost:5173` connecting deterministi
 
 ## Author & Contact
 
-**Sahani Tripurari** — Full-Stack Software Developer  
+**Trirpurari Sahni** — Full-Stack Software Developer  
 - **GitHub**: [@sahaniTripurari](https://github.com/sahaniTripurari)  
 - **Email**: sahanitrirpurari@gmail.com  
 - **Production URL**: [https://gym-website-seven-eta.vercel.app](https://gym-website-seven-eta.vercel.app)
