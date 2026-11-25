@@ -178,7 +178,7 @@ GymWebsite/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/sahaniTripurari/GymWebsite.git
+git clone https://github.com/TrirpurariSahni/GymWebsite.git
 cd GymWebsite
 ```
 
@@ -220,7 +220,7 @@ The client dashboard will run at `http://localhost:5173` connecting deterministi
 ## Author & Contact
 
 **Trirpurari Sahni** — Full-Stack Software Developer  
-- **GitHub**: [@sahaniTripurari](https://github.com/sahaniTripurari)  
+- **GitHub**: [@TrirpurariSahni](https://github.com/TrirpurariSahni)  
 - **Email**: sahanitrirpurari@gmail.com  
 - **Production URL**: [https://gym-website-seven-eta.vercel.app](https://gym-website-seven-eta.vercel.app)
 
