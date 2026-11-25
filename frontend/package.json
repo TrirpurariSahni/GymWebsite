@@ -1,7 +1,10 @@
 {
-  "name": "frontend",
+  "name": "gymfitness-frontend",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
+  "description": "Frontend for GymFitness premium fitness management platform",
+  "author": "Sahani Tripurari",
+  "license": "MIT",
   "type": "module",
   "scripts": {
     "dev": "vite",
