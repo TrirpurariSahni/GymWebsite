@@ -1,9 +1,27 @@
-# 🏋️‍♂️ GymFitness - Premium Fitness Management Platform
+<div align="center">
+
+# 🏋️‍♂️ GymFitness — Premium Fitness Management Platform
 
 [![Live Demo](https://img.shields.io/badge/Demo-Live_Website-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://gym-website-seven-eta.vercel.app)
+[![Watch Video Walkthrough](https://img.shields.io/badge/Video-1080p_Walkthrough-ff0000?style=for-the-badge&logo=youtube&logoColor=white)](docs/assets/walkthrough.mp4)
 [![MERN Stack](https://img.shields.io/badge/Stack-MERN-blue.svg?style=for-the-badge)](https://www.mongodb.com/mern-stack)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![GitHub](https://img.shields.io/badge/Developer-Sahani%20Tripurari-orange?style=for-the-badge&logo=github)](https://github.com/sahaniTripurari)
+[![Developer](https://img.shields.io/badge/Developer-Sahani%20Tripurari-orange?style=for-the-badge&logo=github)](https://github.com/sahaniTripurari)
+
+<br/>
+
+<!-- ================= RESPONSIVE HERO VIDEO / SHOWCASE ================= -->
+<a href="docs/assets/walkthrough.mp4" target="_blank" title="Click to Watch Full 1080p Video Walkthrough">
+  <img src="docs/assets/preview.gif" alt="GymFitness Live Walkthrough Preview" width="100%" style="max-width: 860px; border-radius: 12px; box-shadow: 0 10px 30px rgba(0,0,0,0.35);" />
+</a>
+
+<p align="center">
+  <sub>🎬 <b>Live Animated Walkthrough</b> • <i>Click preview above or <a href="docs/assets/walkthrough.mp4"><b>watch full 1080p walkthrough video</b></a></i> • 🔗 <a href="https://gym-website-seven-eta.vercel.app"><b>Open Live App</b></a></sub>
+</p>
+
+</div>
+
+---
 
 A high-end, full-stack MERN application designed for modern fitness centers. This project showcases a premium UI/UX experience, seamless data integration, class scheduling, and member management features.
 
@@ -78,6 +96,8 @@ npm run dev
 
 ```
 GymWebsite/
+├── docs/
+│   └── assets/              # Showcase video, preview GIF & poster
 ├── backend/
 │   ├── src/
 │   │   ├── config/          # Database configuration (db.js)
